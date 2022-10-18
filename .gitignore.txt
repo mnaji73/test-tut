@@ -1,2 +1,3 @@
 *.pptx
 c:\test
+try  test
